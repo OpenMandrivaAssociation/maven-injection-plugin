@@ -37,7 +37,8 @@ Requires:         jpackage-utils
 Requires:         java
 
 %description
-This package provides capability to perform bytecode injection as part of build.
+This package provides capability to perform bytecode injection as
+part of build.
 
 %package javadoc
 Summary:          Javadocs for %{name}
