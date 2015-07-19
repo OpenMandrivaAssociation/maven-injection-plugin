@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           maven-injection-plugin
 Version:        1.0.2
-Release:        12.1
+Release:        12.2
 Summary:        Bytecode injection at Maven build time
 Group:		Development/Java
 License:        LGPLv2+
