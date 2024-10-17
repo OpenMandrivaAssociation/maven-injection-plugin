@@ -5,7 +5,7 @@ Release:        12.3
 Summary:        Bytecode injection at Maven build time
 Group:		Development/Java
 License:        LGPLv2+
-URL:            http://www.jboss.org
+URL:            https://www.jboss.org
 BuildArch:      noarch
 
 # svn export http://anonsvn.jboss.org/repos/labs/labs/jbossbuild/maven-plugins/tags/maven-injection-plugin-1.0.2/
